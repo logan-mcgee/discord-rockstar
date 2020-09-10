@@ -1,0 +1,9 @@
+{
+	"companyId": 33995,
+	"interval": "15m",
+	"flagCount": 500,
+	"updateRate": 5000,
+	"channelId": "info here",
+	"categoryId": "info here",
+	"discordToken": "info here"
+}
